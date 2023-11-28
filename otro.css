@@ -1,0 +1,67 @@
+/* otro.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fff6ed;
+    /* Fondo principal */
+    color: #333;
+
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1,
+h2,
+h3 {
+    color: #e8c39e;
+    /* Color de encabezado principal */
+}
+
+article {
+    margin-top: 20px;
+}
+
+pre {
+    background-color: #f3dbc3;
+    /* Fondo del código */
+    padding: 10px;
+    overflow-x: auto;
+    border-radius: 8px;
+}
+
+code {
+    color: #333;
+}
+
+/* Estilos para el enlace */
+a {
+    display: block;
+    /* Hace que el enlace sea un bloque */
+    text-align: center;
+    /* Centra el texto horizontalmente */
+    font-size: 1.5em;
+    /* Tamaño del texto */
+    color: #e8c39e;
+    /* Color del enlace */
+    text-decoration: none;
+    /* Elimina el subrayado predeterminado */
+    font-weight: bold;
+    /* Hace que el texto del enlace sea más destacado */
+    transition: color 0.3s ease-in-out;
+    /* Agrega una transición suave al cambio de color */
+    margin: 20px auto;
+    /* Ajusta el margen para centrar verticalmente */
+}
+
+a:hover {
+    color: #fdecd4;
+    /* Cambia el color al pasar el mouse sobre el enlace */
+}
