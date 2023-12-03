@@ -23,8 +23,50 @@ document.addEventListener("DOMContentLoaded", function () {
             generos: ["Cuento"],
             publicacion: 1934,
             resumen: "Colección de cuentos escritos por Juan Bosch antes de su exilio político."
+        },
+        {
+            titulo: "Trujillo Cusas De Una Tirania",
+            autor: "Juan Bosch",
+            generos: ["Cuento"],
+            publicacion: 2009,
+            resumen: "Colección de cuentos escritos por Juan Bosch antes de su exilio político."
+        },
+        {
+            titulo: "La Mujer",
+            autor: "Juan Bosch",
+            generos: ["Cuento"],
+            publicacion: 1932,
+            resumen: "Colección de cuentos escritos por Juan Bosch antes de su exilio político."
+        },
+        {
+            titulo: "De Cristobal Colon A Fidel Castro",
+            autor: "Juan Bosch",
+            generos: ["Cuento"],
+            publicacion: 1985,
+            resumen: "Colección de cuentos escritos por Juan Bosch antes de su exilio político."
+        },
+        {
+            titulo: "Apuntes Sobre El Arte De Escribir",
+            autor: "Juan Bosch",
+            generos: ["Cuento"],
+            publicacion: 1958,
+            resumen: "Colección de cuentos escritos por Juan Bosch antes de su exilio político."
+        },
+        {
+            titulo: "Judas Iscariote el Calumniado",
+            autor: "Juan Bosch",
+            generos: ["Cuento"],
+            publicacion: 1955,
+            resumen: "Colección de cuentos escritos por Juan Bosch antes de su exilio político."
+        },
+        {
+            titulo: "Clases Sociales De La Republica Dominicana",
+            autor: "Juan Bosch",
+            generos: ["Cuento"],
+            publicacion: 1974,
+            resumen: "Colección de cuentos escritos por Juan Bosch antes de su exilio político."
         }
-        // Puedes agregar más obras literarias según sea necesario
+
     ];
 
     // Mostrar cada obra literaria en el contenedor
